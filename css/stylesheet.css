@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+#imagecss{
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width:30%;
+}
+#headersection{
+    padding:5px;
+}
+#headersection h1 {
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+
+
+}
+#dropbox{
+padding: 10px;
+border-radius: 5px;
+width: 15%;
+
+}
+
+#loginbtn{
+    padding: 5px;
+    font-size: 15px;
+    background-color: blueviolet;
+    color:white;
+    border-radius: 5px;
+}
